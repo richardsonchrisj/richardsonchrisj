@@ -1,7 +1,7 @@
 - 🤵🏻 Hi, I’m Chris
 - 👀 I’m interested in web development and instructional design
 - 🌱 I’m currently learning the MERN stack
-- ⚙️ I'm regularly using: `.js`, `.html`, `.css`,`.psd`, `.ai`
+- ✒️ I write in `.js`, `.html`, `.css`, and `.py`
 - 💞️ I’m looking to collaborate on anything interesting, especially ways that make learning experiences more engaging and effective.
 - 🐦 You can reach me at [@CRichardsonDev](https://twitter.com/CRichardsonDev) 
 - 🖥️ My website is [www.chrisrichardson.dev](www.chrisrichardson.dev)
