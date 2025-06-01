@@ -1,12 +1,25 @@
-- 🤵🏻 Hi, I’m Chris
-- 👀 I’m a learning design architect focused on equiping learners with the AI skills they need to thrive in the future
-- 🌱 I’m currently learning about multi-agent systems and distributed machine learning systems
-- ✒️ I write mostly in `.js`, `.html`, `.css`, and `.py`
-- 🖥️ My website is [www.chrisrichardson.dev](www.chrisrichardson.dev)
-- 🦇 Fun fact: I'm a huge Batman fan and even wrote a [book](https://www.amazon.com/Batman-Joker-Contested-Sexuality-Routledge-ebook/dp/B08MV9FX12/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1640137747&sr=8-1) about his relationship with the Joker.
+👋 Hi, I'm Chris Richardson
 
+👨‍💻 I'm a former media professor turned biotech learning architect. I blend design, data, and emerging tech to help learners not just keep up in the industry—but lead.
 
-<!---
-richardsonchrisj/richardsonchrisj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Current Focus:
+
+Exploring how AI agents can scaffold learning interactions
+
+Building scalable learning systems informed by real-time feedback
+
+Experimenting with tools that bridge design and data
+
+💻 Technical Toolkit:
+
+Frontend: HTML, CSS, JavaScript, TypeScript, Tailwind, Next.js
+
+Backend & Tools: Node.js, Git, GitHub, VS Code
+
+L&D Platforms: Canvas LMS, Articulate Rise/Storyline
+
+AI & Design: ChatGPT, Claude, Figma, Gamma, Airtable, Tana
+
+🌐 Portfolio: Check out my playground of ideas, work samples, and experiments at chrisrichardson.dev
+
+🦇 Fun Fact: As both a Batman fan and a media scholar, I wrote a book exploring Batman and the Joker’s complicated relationship. Pop culture is more than entertainment—it shapes how we learn, relate, and imagine the future.
