@@ -1,40 +1,71 @@
-# 👋 Hi, I'm Chris Richardson
+# Chris Richardson
 
-I’m an architect of next-gen learning systems—where AI, design, and behavioral science come together to drive real-world change. With a background in media theory and a current focus in biotech, I build learning experiences that scale, adapt, and perform.
+I build learning systems for the AI-native enterprise.
 
----
+My work lives at the intersection of AI strategy, people science, behavioral design, and operating-model architecture. I help organizations turn emerging technology into usable capability: not by producing more content, but by designing the systems, rituals, feedback loops, and interfaces that let people actually change how they work.
 
-## 🧠 Where I Lead
-- AI-enabled learning strategy: From vision to execution  
-- Systems design: Blending tech, content, and data into cohesive ecosystems  
-- Innovation cycles: Piloting, testing, and scaling what actually works  
-- Team growth: Coaching designers, aligning stakeholders, and building creative momentum
+At Genentech, my focus has been AI-enabled learning design strategy: building scalable approaches to adoption, fluency, experimentation, and workforce capability in a high-complexity biotech environment.
 
 ---
 
-## 🤖 What I’m Building Now
-- Agentic learning models that personalize coaching and upskilling  
-- Data-driven learning experiences with embedded feedback loops  
-- Interfaces and toolkits that make advanced systems easy to adopt
+## The Work
+
+**AI Learning Strategy**
+Designing the architecture for enterprise AI adoption: capability models, learning journeys, stakeholder narratives, and behavior-change systems.
+
+**People Science**
+Applying cognitive science, motivation, feedback, and behavioral economics to how adults build durable skill.
+
+**Agentic Learning Systems**
+Exploring AI agents as coaches, tutors, analysts, knowledge partners, and workflow companions.
+
+**Operating Models**
+Connecting tools, governance, teams, measurement, and communications into systems that can scale.
+
+**Design Execution**
+Turning strategy into usable artifacts: prototypes, workshops, dashboards, guides, interfaces, and learning products.
 
 ---
 
-## 🧰 Core Stack & Tools
-**Web & Dev**: Next.js, TypeScript, Node.js, Tailwind, GitHub  
-**AI & Design**: GPT-4, Claude, Figma, Gamma, Airtable, Tana  
-**L&D Platforms**: Articulate Rise, Storyline, Canvas  
-**Workflow**: VS Code, Notion, Python, Miro, Tableau
+## Current Questions
+
+- How do we move from AI literacy to AI fluency?
+- What does a useful AI coach know about the learner, the work, and the organization?
+- How should learning systems measure behavior change instead of completion?
+- What operating models help humans and agents collaborate safely and effectively?
+- How do we make advanced systems feel simple without making them shallow?
 
 ---
 
-## 🌐 Portfolio  
-See live projects and experiments at [chrisrichardson.dev](https://www.chrisrichardson.dev)
+## Stack
+
+```txt
+AI          Claude · GPT-4/5 · agent workflows · prompt systems · evaluation
+Design      Figma · Miro · Gamma · systems thinking · prototyping
+Web         Next.js · TypeScript · Node.js · Tailwind · GitHub
+Data        Tableau · Airtable · analytics · feedback loops
+Learning    Rise · Storyline · Canvas · LMS/LXP ecosystems
+Workflow    VS Code · Notion · Tana · Python · automation
+
 
 ---
 
-## 🦇 Fun Fact  
-I’m a longtime Batman fan and published author on the Joker’s place in pop culture. Great villains—and great learning systems—expose what really drives us.
+## Portfolio
+
+**[chrisrichardson.dev](https://www.chrisrichardson.dev)**
 
 ---
 
-📬 Always open to conversations about learning innovation, systems thinking, and the future of skill development.
+## Personal Signal
+
+My first intellectual home was media theory: how symbols, systems, and stories shape behavior. That still informs everything I build.
+
+Also: longtime Batman reader, published author on the Joker, and still convinced that the best villains — and the best learning systems — reveal what people are really optimizing for.
+
+---
+
+## Let’s Talk About
+
+AI adoption, people science, learning systems, workforce transformation, agentic coaching, behavioral design, and the future of skill development.
+
+**Make the system intelligent. Make the behavior visible. Make the work better.**
