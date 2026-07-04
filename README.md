@@ -57,7 +57,18 @@ Executive narratives, adoption strategies, operating models, enablement plans, a
 
 ---
 
-## IV. Selected Tools
+## IV. Public Work Index
+
+| Repo | What it is |
+|------|------------|
+| [ScenarioChoiceHandler](https://github.com/richardsonchrisj/ScenarioChoiceHandler) | Capture learner choices from Rise 360 scenarios as xAPI data for learning analytics |
+| [agentic-learning-patterns](https://github.com/richardsonchrisj/agentic-learning-patterns) | Pattern library for AI coaches, tutors, copilots, and reflective agents |
+| [learning-measurement-playbook](https://github.com/richardsonchrisj/learning-measurement-playbook) | Templates for measuring learning transfer, AI adoption, and behavior change |
+| [ai-learning-systems-lab](https://github.com/richardsonchrisj/ai-learning-systems-lab) | Working notes and prototypes behind the repos above |
+
+---
+
+## V. Selected Tools
 
 ```txt
 AI / Agents        Claude · GPT-4/5 · prompt systems · agent workflows · evaluation
@@ -69,7 +80,7 @@ Data / Ops         Tableau · Airtable · Notion · Tana · workflow automation
 
 ---
 
-## V. Point of View
+## VI. Point of View
 
 **AI adoption is a behavior-change problem.**
 Most organizations frame AI adoption as a tooling challenge. The harder work is human: trust, relevance, confidence, incentives, cognitive load, and the fear that lives just beneath the surface of “enablement.”
@@ -85,14 +96,14 @@ Completion data can tell you that something happened. Better systems help reveal
 
 ---
 
-## VI. Portfolio
+## VII. Portfolio
 
 Projects, experiments, and writing:
 **[chrisrichardson.dev](https://www.chrisrichardson.dev)**
 
 ---
 
-## VII. Background Signal
+## VIII. Background Signal
 
 Before working in biotech and AI learning strategy, I studied media theory, cultural systems, and the way stories shape behavior. That still informs my work: technologies are never just tools. They are meaning systems, power systems, and behavior systems.
 
@@ -100,7 +111,7 @@ I am also a longtime Batman reader and a published author on the Joker’s role 
 
 ---
 
-## VIII. Open To
+## IX. Open To
 
 Conversations about:
 
