@@ -1,71 +1,118 @@
 # Chris Richardson
 
-I build learning systems for the AI-native enterprise.
+**AI Learning Strategy · People Science · Workforce Transformation**
 
-My work lives at the intersection of AI strategy, people science, behavioral design, and operating-model architecture. I help organizations turn emerging technology into usable capability: not by producing more content, but by designing the systems, rituals, feedback loops, and interfaces that let people actually change how they work.
+I design learning systems for organizations entering the AI-native era — systems that help people move from awareness to fluency, from experimentation to adoption, and from tool usage to measurable changes in how work gets done.
 
-At Genentech, my focus has been AI-enabled learning design strategy: building scalable approaches to adoption, fluency, experimentation, and workforce capability in a high-complexity biotech environment.
+My work sits at the intersection of enterprise AI adoption, behavioral science, learning design, and operating-model strategy. The throughline is simple: advanced tools only matter when people can use them fluently, safely, and meaningfully in the flow of real work.
 
----
-
-## The Work
-
-**AI Learning Strategy**
-Designing the architecture for enterprise AI adoption: capability models, learning journeys, stakeholder narratives, and behavior-change systems.
-
-**People Science**
-Applying cognitive science, motivation, feedback, and behavioral economics to how adults build durable skill.
-
-**Agentic Learning Systems**
-Exploring AI agents as coaches, tutors, analysts, knowledge partners, and workflow companions.
-
-**Operating Models**
-Connecting tools, governance, teams, measurement, and communications into systems that can scale.
-
-**Design Execution**
-Turning strategy into usable artifacts: prototypes, workshops, dashboards, guides, interfaces, and learning products.
+At Genentech, my work has focused on AI-enabled learning design strategy: translating emerging technology into scalable capability, practical adoption systems, and measurable behavior change in a high-complexity biotech environment.
 
 ---
 
-## Current Questions
+## I. Current Work
 
-- How do we move from AI literacy to AI fluency?
-- What does a useful AI coach know about the learner, the work, and the organization?
-- How should learning systems measure behavior change instead of completion?
-- What operating models help humans and agents collaborate safely and effectively?
-- How do we make advanced systems feel simple without making them shallow?
+**Primary framing**
+I build the learning architecture that helps people and organizations move from AI awareness to AI fluency.
+
+**Core questions**
+
+- How do we turn AI adoption into durable capability?
+- What does effective human–AI collaboration require from a learning system?
+- How should organizations measure behavior change instead of completion?
+- What operating models help learning teams move with product-level speed and scientific discipline?
+- How do we make complex systems feel usable without making them shallow?
+
+**Working thesis**
+The future of learning is not more content. It is better infrastructure: adaptive systems, useful feedback loops, intelligent workflows, and learning experiences that change how people perform.
 
 ---
 
-## Stack
+## II. Strategic Lanes
+
+| Lane | Focus |
+|---|---|
+| **AI Learning Strategy** | Enterprise AI adoption, capability-building, learning ecosystems |
+| **People Science** | Behavior change, motivation, cognitive load, trust, transfer |
+| **Agentic Learning Systems** | AI coaches, tutors, copilots, reflective agents, workflow partners |
+| **Measurement & Feedback** | Learning analytics, adoption signals, performance data, experimentation |
+| **Operating Model Design** | Governance, workflows, team rituals, scalable enablement systems |
+| **Experience Design** | Human-centered tools, prototypes, learning journeys, interface clarity |
+
+---
+
+## III. What I Build
+
+**Learning systems**
+AI-enabled learning journeys, adoption playbooks, simulations, workshops, toolkits, and reusable frameworks.
+
+**Agentic experiences**
+Prototypes and workflows where AI supports coaching, reflection, analysis, practice, and performance support.
+
+**Measurement systems**
+Feedback loops that make learning visible: what people try, where they stall, what changes, and what value emerges.
+
+**Strategic artifacts**
+Executive narratives, adoption strategies, operating models, enablement plans, and systems that help teams move with clarity.
+
+---
+
+## IV. Selected Tools
 
 ```txt
-AI          Claude · GPT-4/5 · agent workflows · prompt systems · evaluation
-Design      Figma · Miro · Gamma · systems thinking · prototyping
-Web         Next.js · TypeScript · Node.js · Tailwind · GitHub
-Data        Tableau · Airtable · analytics · feedback loops
-Learning    Rise · Storyline · Canvas · LMS/LXP ecosystems
-Workflow    VS Code · Notion · Tana · Python · automation
-
+AI / Agents        Claude · GPT-4/5 · prompt systems · agent workflows · evaluation
+Design             Figma · Miro · Gamma · design systems · rapid prototyping
+Web / Technical    Next.js · TypeScript · Node.js · Tailwind · Python · GitHub
+Learning           Articulate Rise · Storyline · Canvas · LMS/LXP ecosystems
+Data / Ops         Tableau · Airtable · Notion · Tana · workflow automation
+```
 
 ---
 
-## Portfolio
+## V. Point of View
 
+**AI adoption is a behavior-change problem.**
+Most organizations frame AI adoption as a tooling challenge. The harder work is human: trust, relevance, confidence, incentives, cognitive load, and the fear that lives just beneath the surface of “enablement.”
+
+**Learning needs product discipline.**
+Modern learning teams need to think less like content factories and more like product, research, and systems teams: define the behavior, ship the intervention, measure the signal, and improve what survives contact with reality.
+
+**The interface is part of the strategy.**
+If a system is too complex to use, it is not yet intelligent enough. Good design makes advanced capability feel natural without hiding the rigor underneath.
+
+**Measurement changes the conversation.**
+Completion data can tell you that something happened. Better systems help reveal whether capability changed, whether behavior transferred, and whether the work improved.
+
+---
+
+## VI. Portfolio
+
+Projects, experiments, and writing:
 **[chrisrichardson.dev](https://www.chrisrichardson.dev)**
 
 ---
 
-## Personal Signal
+## VII. Background Signal
 
-My first intellectual home was media theory: how symbols, systems, and stories shape behavior. That still informs everything I build.
+Before working in biotech and AI learning strategy, I studied media theory, cultural systems, and the way stories shape behavior. That still informs my work: technologies are never just tools. They are meaning systems, power systems, and behavior systems.
 
-Also: longtime Batman reader, published author on the Joker, and still convinced that the best villains — and the best learning systems — reveal what people are really optimizing for.
+I am also a longtime Batman reader and a published author on the Joker’s role in pop culture. Great villains — like great learning systems — reveal the hidden architecture underneath people’s choices.
 
 ---
 
-## Let’s Talk About
+## VIII. Open To
 
-AI adoption, people science, learning systems, workforce transformation, agentic coaching, behavioral design, and the future of skill development.
+Conversations about:
 
-**Make the system intelligent. Make the behavior visible. Make the work better.**
+- AI learning strategy
+- People science
+- Workforce transformation
+- Agentic coaching
+- Enterprise AI adoption
+- Learning measurement
+- Behavioral design
+- Future-of-work systems
+
+---
+
+**Design the system. Measure the behavior. Make the future usable.**
